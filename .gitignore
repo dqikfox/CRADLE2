@@ -1,0 +1,9 @@
+node_modules/
+.node_modules.tmp*/
+.node_modules.lock
+.project_id
+.github_repo
+.env
+.env.*
+.grok/
+artifacts/
